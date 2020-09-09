@@ -1,0 +1,8 @@
+{
+    "server_name": "example.com",
+    "public_baseurl": "https://matrix.example.com",
+    "admin": "youradmin",
+    "password": "yourpassword",
+    "database": "/path/to/your/homeserver.db",
+    "rp_hours": 12
+}
